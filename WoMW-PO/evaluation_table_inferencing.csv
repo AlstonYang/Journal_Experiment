@@ -1,2 +1,2 @@
 Stage,MAE,MAPE,RMSE,Accuracy(2000),Accuracy(3000),Step4,Step6.1,Step6.2,Time,Adopted_hidden_node
-Inferencing,4965.62,10.72,5986.34,18.95,29.47,374,2,0,87.12452530860901,1
+Inferencing,4986.58,10.73,5998.33,18.95,29.47,375,2,0,66.32412958145142,1

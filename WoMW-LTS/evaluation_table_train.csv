@@ -1,2 +1,2 @@
 Stage,MAE,MAPE,RMSE,Accuracy(2000),Accuracy(3000),Step4,Step6.1,Step6.2,Time,Adopted_hidden_node
-Training,1988.1,4.46,2521.49,61.17,75.0,374,0,2,160.13964319229126,6
+Training,1783.83,4.01,2306.07,65.25,80.11,375,0,2,120.29008221626282,6
