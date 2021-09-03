@@ -1,0 +1,3 @@
+Window_index,Stage,MAE,MAPE,RMSE,Accuracy(2000),Accuracy(3000),Maximum error,Minimum error,Step4,Step6.1,Step6.2,Time,Adopted_hidden_node
+1,Training,2016.06,3.87,2652.47,59.75,79.87,7913.43,27.41,118,41,0,14.62081265449524,1
+2,Training,1741.02,3.34,2150.63,64.15,86.16,7907.27,0.02,156,2,1,21.617462158203125,4
