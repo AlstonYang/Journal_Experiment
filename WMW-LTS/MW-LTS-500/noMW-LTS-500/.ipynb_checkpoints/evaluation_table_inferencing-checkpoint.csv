@@ -1,0 +1,2 @@
+Stage,MAE,MAPE,RMSE,Accuracy(2000),Accuracy(3000),Maximum error,Minimum error,Step4,Step6.1,Step6.2,Time,Adopted_hidden_node,nb_node_pruned
+Inferencing,2361.18,4.87,3367.1,56.84,68.42,9225.88,78.98,377,0,0,425.43815660476685,1,0
